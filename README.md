@@ -1,0 +1,3 @@
+Eratosthenes.javaはEratosthenes.csvの数値データでエラトステネスのふるいを行い、その数までの素数を表示するプログラムです。
+Euclidean.javaはEuclidean.csvの数値データでユークリッドの互除法を行い、最小公倍数を表示するプログラムです。
+Prime.javaはPrime.csvの数値データを素数かどうか判定するプログラムです。
